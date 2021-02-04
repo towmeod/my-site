@@ -1,6 +1,6 @@
 ## Всем привет:)
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="towmeod" data-slug-hash="RwGmdgq" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Berlin2348">
+<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="js,result" data-user="towmeod" data-slug-hash="RwGmdgq" style="height: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Berlin2348">
   <span>See the Pen <a href="https://codepen.io/towmeod/pen/RwGmdgq">
   Berlin2348</a> by towmeod (<a href="https://codepen.io/towmeod">@towmeod</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
