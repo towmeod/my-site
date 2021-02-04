@@ -1,9 +1,11 @@
 ## Всем привет:)
 
-You can use the [editor on GitHub](https://github.com/towmeod/my-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="towmeod" data-slug-hash="RwGmdgq" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Berlin2348">
+  <span>See the Pen <a href="https://codepen.io/towmeod/pen/RwGmdgq">
+  Berlin2348</a> by towmeod (<a href="https://codepen.io/towmeod">@towmeod</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
